@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=Al%20Muheetu%20Shihab&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Android%20Native%20%26%20React%20Native&descAlignY=55&descAlign=50" alt="Al Muheetu Shihab Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Al%20Muheetu%20Shihab&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Android%20Native%20%26%20React%20Native&descAlignY=55&descAlign=50" alt="Al Muheetu Shihab Header" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Android+Native+Dev+(Kotlin);Cross-Platform+Dev+(React+Native);Problem+Solver+(90%2B+HackerRank);Full+Stack+Enthusiast" alt="Typing SVG" />
@@ -77,8 +77,14 @@ I am a dedicated **Associate Software Engineer** based in **Dhaka, Bangladesh** 
   <br/>
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=almuheetushihab&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=almuheetushihab&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almuheetushihab&layout=compact&theme=radical&hide=jupyter%20notebook&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/almuheetushihab/count.svg" alt="Visitor Count" />
 </div>
 
 ---
