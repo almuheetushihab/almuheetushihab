@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Al Muheetu Shihab 🚀</h1>
-<h3 align="center">Associate Software Engineer | Android Native | React Native | Kotlin | Jetpack Compose | JavaScript | ReactJS | TailWind | NativeWind | Web Devlopment | Problem Solving</h3>
+<h3 align="center">Associate Software Engineer | Android Native | React Native | Kotlin | Jetpack Compose | JavaScript | Typescript | ReactJS | TailWind | NativeWind | Web Devlopment | Problem Solving</h3>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
